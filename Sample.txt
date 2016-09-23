@@ -1,0 +1,20 @@
+Insert 20 20
+Insert 72 72
+Insert 80 80
+Insert 40 40
+Insert 30 30
+Insert 4 4
+Insert 5 5
+Insert 3 3
+Insert 93 93
+Insert 21 21
+Insert 13 13
+Search 5
+Rank 3
+Delete 3
+GetValByRank 6
+kSmallest 5
+kLargest 4
+Insert 123 123
+Insert 421 421
+

@@ -1,0 +1,50 @@
+Insert 20 20
+Delete 25
+Insert 72 72
+Insert 80 80
+Insert 40 40
+Insert 30 30
+Insert 4 4
+Insert 5 5
+Insert 3 3
+Insert 2 2
+Insert 10 10
+Insert 99 99
+Insert 67 67
+Insert 43 43
+Insert 33 33
+Insert 21 21
+Insert 22 22
+rangeCount 0 30
+Insert 6 6
+Insert 12 12
+Insert 13 13
+rangeCount 0 45
+Insert 36 36
+Insert 37 37
+Insert 38 38
+rangeCount 0 60
+Insert 93 93
+Insert 21 21
+Insert 13 13
+Insert 103 103
+Insert 144 144
+Insert 155 155
+Insert 166 166
+Insert 226 226
+Insert 336 336
+Insert 224 224
+Search 5
+Rank 3
+Delete 3
+GetValByRank 6
+kSmallest 5
+kLargest 4
+Insert 123 123
+Insert 421 421
+Insert 221 221
+rangeCount 30 200
+Insert 211 211
+Insert 212 212
+Insert 24 24
+
